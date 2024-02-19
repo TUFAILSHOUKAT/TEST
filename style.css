@@ -1,0 +1,14 @@
+*{ padding: 0px ; margin: 0px;}
+.button{  gap: 50px;
+
+
+
+}
+
+span{ color: red;}
+.span{ text-align: center;}
+#bb{   width: 100px; height: 100px; border-radius: 100px; border: none;
+ text-align: center;
+
+}
+.img{ display: flex; width: 100%; justify-content: space-between;}
